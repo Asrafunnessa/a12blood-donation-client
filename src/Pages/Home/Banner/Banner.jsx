@@ -10,8 +10,8 @@ const Banner = () => {
                         <h2 className='text-2xl font-bold'>Donate Blood,Save Life!!</h2>
                         <p className='text-6xl font-bold'>Donate Blood and inspires others.</p>
                         <div>
-                            <button className='btn btn-primary btn-outline mr-5'><Link to="/">Join as a donor</Link></button>
-                            <button className='btn btn-primary btn-outline mr-5'><Link to="/">Search Donors</Link></button>
+                            <button className='btn btn-primary btn-outline mr-5'><Link to="/registration">Join as a donor</Link></button>
+                            <button className='btn btn-primary btn-outline mr-5'><Link to="/search">Search Donors</Link></button>
                         </div>
                     </div>
                 </div>
@@ -27,8 +27,8 @@ const Banner = () => {
                         <h2 className='text-2xl font-bold'>Donate Blood,Save Life!!</h2>
                         <p className='text-6xl font-bold'>Your Blood can bring smile in other person face.</p>
                         <div>
-                            <button className='btn btn-primary btn-outline mr-5'><Link to="/">Join as a donor</Link></button>
-                            <button className='btn btn-primary btn-outline mr-5'><Link to="/">Search Donors</Link></button>
+                            <button className='btn btn-primary btn-outline mr-5'><Link to="/registration">Join as a donor</Link></button>
+                            <button className='btn btn-primary btn-outline mr-5'><Link to="/search">Search Donors</Link></button>
                         </div>
                     </div>
                 </div>

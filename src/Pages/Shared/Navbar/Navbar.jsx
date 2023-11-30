@@ -4,9 +4,9 @@ const Navbar = () => {
 
     const navOptions = <>
         <li><Link to="/">Home</Link></li>
-        <li><Link to="/menu">Donation Requests</Link></li>
-        <li><Link to="/order/salad">Blog</Link></li>
-        <li><Link to="/secret">Registration</Link></li>
+        <li><Link to="/donationRequests">Donation Requests</Link></li>
+        <li><Link to="/blog">Blog</Link></li>
+        <li><Link to="/registration">Registration</Link></li>
     </>
 
 
